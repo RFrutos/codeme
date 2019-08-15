@@ -1,0 +1,27 @@
+.navbar-nav{
+    margin-right: 7%;
+    
+}
+.nav-item {
+    margin-right: 10%;
+}
+.link{
+    width: 82px;
+    height: 64px;
+    font-family: SanFranciscoText;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.84px;
+    text-align: right;
+    color: #ffffff;
+    
+}
+.logo-header{
+    width: 43px;
+    height: 46px;
+    box-shadow: 7px 2px 4px 0 rgba(0, 0, 0, 0.5);
+    background-color: #d8d8d8;}
+
